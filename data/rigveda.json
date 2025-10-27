@@ -1,0 +1,1697 @@
+[
+  {
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 1,
+    "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवम् ऋत्विजम् ।",
+    "translation": "I Laud Agni, the chosen Priest, God, minister of sacrifice...",
+    "deities": ["Agni"],
+    "themes": ["Fire", "Sacrifice", "Ritual"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 2,
+    "sanskrit": "होता᳚रं रत्न॒धात॑मम् ।",
+    "translation": "Who is the Hotar, lavishest of wealth...",
+    "deities": ["Agni"],
+    "themes": ["Wealth", "Ritual"]
+  },
+   
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 1,
+    "sanskrit": "प्राचीनदृष्टिभिः यथा जीवन् अग्निः प्रशंसाय योग्यः अस्ति।",
+    "translation": "Worthy is Agni to be praised by living as by ancient seers.",
+    "deities": ["Agni"],
+    "themes": ["Offering", "Partnership"]
+  },
+  
+ 
+  {
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 1,
+    "sanskrit": "अ॒ग्निमी॑ळे पु॒रोहि॑तं य॒ज्ञस्य॑ दे॒वमृ॒त्विज॑म् । होता॑रं रत्न॒धात॑मम् ॥",
+    "translation": "I laud Agni, the High Priest, the God, the minister of sacrifice, the Invoker (Hotar), best bestower of treasure.",
+    "deities": ["Agni"],
+    "themes": ["Praise", "Priesthood", "Sacrifice", "Wealth"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 7,
+    "sanskrit": "उप॑ त्वाग्ने दि॒वेदि॑वे॒ दोषा॑वस्तर्धि॒या व॒यम् । नमो॒ भर॑न्त॒ एम॑सि ॥",
+    "translation": "To thee, Dispenser of the night and day, O Agni, we draw near, with prayer, bearing our homage.",
+    "deities": ["Agni"],
+    "themes": ["Homage", "Prayer", "Day and Night"]
+  },
+
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 1,
+    "sanskrit": "वायवा याहि दर्शतेमे सोमा अरंक्र्ताः |तेषां पाहि शरुधी हवम ",
+    "translation": " BEAUTIFUL Vāyu, come, for thee these Soma drops have been prepared: Drink of them, hearken to our call.",
+    "deities": ["vayu"],
+    "themes": ["beauty", "soma", "purity", "invocation"]
+  },
+  
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 3,
+    "sanskrit": "वायो तव परप्र्ञ्चती धेना जिगाति दाशुषे |उरूची सोमपीतये ||",
+    "translation": "Vāyu, thy penetrating stream goes forth unto the worshipper,Far-spreading for the Soma draught.",
+    "deities": ["vayu"],
+    "themes": ["Vata", "Wind", "Soma", "Worship" ]
+  },
+
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 2,
+    "sanskrit": "वाय उक्थेभिर्जरन्ते तवामछा जरितारः |सुतसोमा अहर्विदः ||",
+    "translation": "Knowing the days, with Soma juice poured forth, the singers glorify Thee, Vāyu, with their hymns of praise.",
+    "deities": ["vayu"],
+    "themes": ["Vata","singers","praise","soma"] 
+  },
+
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 7,
+    "sanskrit": "मित्रं हुवे पूतदक्षं वरुणं च रिशादसम | धियं घर्ताचीं साधन्ता ||",
+    "translation": " Mitra, of holy strength, I call, and foe-destroying Varuṇa, Who make the oil-fed rite complete.",
+    "deities": ["vayu"],
+    "themes": ["Vata","Mitra","Varuna","Ritual"] 
+  },
+
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 1,
+    "sanskrit": "अश्विना यज्वरीरिषो दरवत्पाणी शुभस पती | पुरुभुजाचनस्यतम ||",
+    "translation": "YE Aśvins, rich in treasure, Lords of splendour, having nimble hands, Accept the sacrificial food.",
+    "deities": ["Ashwinis"],
+    "themes": ["Ashwinis","Ritual","Treasure"] 
+  },
+
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 2,
+    "sanskrit": "अश्विना पुरुदंससा नरा शवीरया धिया | धिष्ण्या वनतं गिरः ||",
+    "translation": " Ye Aśvins, rich in wondrous deeds, ye heroes worthy of our praise, Accept our songs with mighty thought.",
+    "deities": ["Ashwinis"],
+    "themes": ["Ashwinis","Heroism","Praise","Songs"] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 3,
+    "sanskrit": "दस्रा युवाकवः सुता नासत्या वर्क्तबर्हिषः | आ यातंरुद्रवर्तनी ||",
+    "translation": "  Nāsatyas, wonder-workers, yours are these libations with clipt grass: Come ye whose paths are red with flame.",
+    "deities": ["Ashwinis"],
+    "themes": ["Ashwinis","Nāsatyas","Libations","Flame"] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 4,
+    "sanskrit": "इन्द्रा याहि चित्रभानो सुता इमे तवायवः |अण्वीभिस्तना पूतासः ||",
+    "translation": " O Indra marvellously bright, come, these libations long for thee, Thus by fine fingers purified.",
+    "deities": ["Ashwinis","Indra"],
+    "themes": ["Ashwinis","Indra","Libations","Purity"] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 5,
+    "sanskrit": "इन्द्रा याहि धियेषितो विप्रजूतः सुतावतः | उप बरह्माणि वाघतः ||",
+    "translation": " Urged by the holy singer, sped by song, come, Indra, to the prayers,Of the libation-pouring priest",
+    "deities": ["Ashwinis","Indra"],
+    "themes": ["Ashwinis","Indra","Libations","Purity"] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 8,
+    "sanskrit": "विश्वे देवासो अप्तुरः सुतमा गन्त तूर्णयः | उस्रा इवस्वसराणि ||",
+    "translation": " Ye Viśvedevas, swift at work, come hither quickly to the draught, As milch-kine hasten to their stalls.",
+    "deities": ["Ashwinis","Viśvedevas"],
+    "themes": ["Ashwinis","Worship","work" ] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 9,
+    "sanskrit": "विश्वे देवासो अस्रिध एहिमायासो अद्रुहः | मेधं जुषन्त वह्नयः ||",
+    "translation": " The Viśvedevas, changing shape like serpents, fearless, void of guile, Bearers, accept the sacred draught",
+    "deities": ["Ashwinis","Viśvedevas"],
+    "themes": ["Ashwinis","snake","shape-shifter" ] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 10,
+    "sanskrit": "पावका नः सरस्वती वाजेभिर्वाजिनीवती | यज्ञं वष्टु धियावसुः ||",
+    "translation": " Wealthy in spoil, enriched with hymns, may bright Sarasvatī desire,With eager love, our sacrifice",
+    "deities": ["sarasvati"],
+    "themes": ["saraswati","Wealth","love"] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 11,
+    "sanskrit": "चोदयित्री सून्र्तानां चेतन्ती सुमतीनाम | यज्ञं दधे सरस्वती ||",
+    "translation": " Inciter of all pleasant songs, inspirer of all gracious thought, Sarasvatī accept our rite",
+    "deities": ["sarasvati"],
+    "themes": ["saraswati","Songs","Rite"] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 12,
+    "sanskrit": "महो अर्णः सरस्वती पर चेतयति केतुना | धियो विश्वा वि राजति ||",
+    "translation": "Sarasvatī, the mighty flood,—she with her light illuminates, She brightens every pious thought.",
+    "deities": ["sarasvati"],
+    "themes": ["saraswati","Songs","Rite","Light","Flood","Illumination","Thought" ,"piety","brightness","mind","intellect" ,"wisdom" , "knowledge"  ,"enlightenment"  ] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 2,
+    "sanskrit": "सुरूपक्र्त्नुमूतये सुदुघामिव गोदुहे |जुहूमसि दयवि-दयवि ||",
+    "translation": " As a good cow to him who milks, we call the doer of fair deeds, To our assistance day by day.",
+    "deities": ["sarasvati"],
+    "themes": ["saraswati","Songs","Rite","cows","milking","assistance","daily ritual"] 
+  },
+   {
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 5,
+    "sanskrit": "उत बरुवन्तु नो निदो निरन्यतश्चिदारत | दधाना इन्द्र इद दुवः ||",
+    "translation": "  Whether the men who mock us say, Depart unto another place, Ye who serve Indra and none else;",
+    "deities": ["Indra"],
+    "themes": ["Indra","mockery","service","devotion"]  
+  },
+   {
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 6,
+    "sanskrit": "उत नः सुभगानरिर्वोचेयुर्दस्म कर्ष्टयः | सयामेदिन्द्रस्य शर्मणि |",
+    "translation": "   Or whether, God of wondrous deeds, all our true people call us blest, Still may we dwell in Indra's care.",
+    "deities": ["Indra"],
+    "themes": ["Indra","blessing","devotion","care"]  
+  },
+   {
+    "mandala": 1,
+    "hymn": 12,
+    "verse": 1,
+    "sanskrit": "अग्निं दूतं वर्णीमहे होतारं विश्ववेदसम | अस्य यज्ञस्य सुक्रतुम ||",
+    "translation": " WE choose Agni the messenger, the herald, master of all wealth, Well skilled in this our sacrifice.",
+    "deities": ["Agni"],
+    "themes": ["agni","messenger","herald","wealth","sacrifice"]  
+  },
+   {
+    "mandala": 1,
+    "hymn": 12,
+    "verse": 10,
+    "sanskrit": "स नः पावक दीदिवो.अग्ने देवानिहा वह | उप यज्ञं हविश्च नः ||",
+    "translation": " Such, Agni, Purifier, bright, bring hither to our sacrifice,To our oblation bring the Gods.",
+    "deities": ["Agni"],
+    "themes": ["agni","purifier","sacrifice","oblation","gods"]  
+  },
+
+
+
+  {
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 1,
+    "sanskrit": "सु॒रू॒प॒कृ॒त्नुमू॒तये॑ सु॒दुघा॑मिव गो॒दुहे᳚ । जु॒हू॒मसि॒ द्यवि॑द्यवि ॥",
+    "translation": "We call the fair-performing Indra for succor day by day, like the milch-cow to the milker.",
+    "deities": ["Indra"],
+    "themes": ["Invocation", "Succor", "Daily Ritual"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 55,
+    "verse": 6,
+    "sanskrit": "तमि॑न्द्रं वा॒जया॑मसि म॒हे वृ॒त्राय॒ हन्त॑वे ॥",
+    "translation": "We animate this Indra to strike the great Dragon Vritra.",
+    "deities": ["Indra"],
+    "themes": ["Combat", "Vritra", "Heroism"]
+  },
+
+
+  {
+    "mandala": 1,
+    "hymn": 22,
+    "verse": 1,
+    "sanskrit": "प्रात॑र्युजा॒ वि वो॑ दे॒वा॒नाव॑र्धे॒न्या। आ॒श्वि॒ना॒व॒ह्वया॑महे ॥",
+    "translation": "We call on you, O Ashvins, Divinities to be glorified, joined together at the morning rite.",
+    "deities": ["Ashvins"],
+    "themes": ["Morning Rite", "Invocation", "Glory"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 46,
+    "verse": 2,
+    "sanskrit": "उप॑ नो वाजिनीवसू॒ गच्छ॑तं सोमपी॒तये॑ । सोमा॑ ह॒सन्ति॑ वा॒मिमे ॥",
+    "translation": "Come near to us, O ye Twain rich in wealth, to drink the Soma: these Soma juices laugh for you.",
+    "deities": ["Ashvins"],
+    "themes": ["Soma", "Wealth", "Nearness"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 37,
+    "verse": 1,
+    "sanskrit": "कण्वा॑ इव॒ प्र गा॑यत॒ भद्रा॒ भद्रो॒क्तिभि॑स्सु॒तम् । स्तोमं॑ विश्व॒प्रियं॒ नरः॑ ॥",
+    "translation": "Sing forth a fair, bright hymn, O men, to the Company of Maruts, acceptable to all, like the Kanvas.",
+    "deities": ["Maruts"],
+    "themes": ["Hymn", "Praise", "Company"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 87,
+    "verse": 2,
+    "sanskrit": "अना॑न॒ता वृष॑णः पिन्वतो॒ रुहो॒ द्युमन्त॑श्शु॒ष्मा म॒रुतो॑ वि॒दद्र॑यः ॥",
+    "translation": "Unbending, strong, whose growth swells up, luminous in power, the Maruts who know their paths.",
+    "deities": ["Maruts"],
+    "themes": ["Strength", "Luminosity", "Power"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 15,
+    "verse": 6,
+    "sanskrit": "मि॒त्रावरु॑णा॒वश्वि॑ना॒ त्वाष्ट॒रमव॑ सेधतम् । ब्र॒ह्म॒णा व॑र्धय॒तम् ॥",
+    "translation": "Mitra-Varuna, the Ashvins, and Tvashtar, urge on our prayer; promote it with devotion.",
+    "deities": ["Mitra", "Varuna", "Ashvins", "Tvashtar"],
+    "themes": ["Prayer", "Devotion", "Promotion"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 152,
+    "verse": 2,
+    "sanskrit": "ऋ॒तस्य॑ गो॒पौ॒ न द॑भाय॑ते॒ यु॒वम् । मि॒त्राव॑रुणा ॥",
+    "translation": "You two, O Mitra-Varuna, are the guardians of cosmic order (Ṛta), never failing.",
+    "deities": ["Mitra", "Varuna"],
+    "themes": ["Cosmic Order (Ṛta)", "Guardianship", "Faithfulness"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 43,
+    "verse": 1,
+    "sanskrit": "कद्रा॑य रु॒द्राय॒ मीळ्हु॑षे॒ कं क्षय॑द्वी॒राय॒ नम॑सा दि॒शेम ॥",
+    "translation": "To Rudra, the bountiful, with our reverence, let us declare what is good for the powerful Hero.",
+    "deities": ["Rudra"],
+    "themes": ["Reverence", "Bounty", "Heroism"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 43,
+    "verse": 6,
+    "sanskrit": "अ॒ना॒म्य॒स्य॒ श॒वसा॑ रु॒द्रस्य॑ दि॒व्यानाम् ॥",
+    "translation": "Through the unbending might of Rudra, among the celestials.",
+    "deities": ["Rudra"],
+    "themes": ["Might", "Celestials"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 35,
+    "verse": 1,
+    "sanskrit": "ह्वया॑मि मि॒त्रं वरु॑णं॒ ये स॒जोषा॑ घृ॒तं ह॒वीर॑र्व॒ते नाध॑मानाः । ति॒रो अ॒रीचि॒मेक॒स्सुश्र॑वो॒ धाः सवि॒ता दे॒वो अस्ता॑त् ॥",
+    "translation": "I call Mitra and Varuna who joy together, offering the butter oblation to the steed. The God Savitr stands forth, rich in fame, alone, above the darkness.",
+    "deities": ["Savitr", "Mitra", "Varuna"],
+    "themes": ["Invocation", "Obscurity", "Light", "Fame"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 35,
+    "verse": 9,
+    "sanskrit": "हिर॑ण्यपाणिः सवि॒ता वि च॑र्ष॒णिरा॒ङ्गुलीभि॑रु॒भयं॑ जिगाति ॥",
+    "translation": "Savitr, with golden hands, beheld by all, goes forth with his fingers to both (heaven and earth).",
+    "deities": ["Savitr"],
+    "themes": ["Golden", "Perception", "Universal"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 1,
+    "sanskrit": "वा॒यवा या॑हि द॒र्शते॒मे सोमा॒ अरं॑ कृ॒ताः । तेषां॑ पिब शुचिषिप॒रया॒ धिया॑ ॥",
+    "translation": "Beautiful Vayu, come: these Soma juices have been prepared. Drink them with pure intention.",
+    "deities": ["Vayu"],
+    "themes": ["Soma", "Purity", "Invocation"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 134,
+    "verse": 1,
+    "sanskrit": "वातो॒ वा मनो॒ वा ग॒न्ध॒र्वो वा स॒प्तविं॑शति॒र्वा । अ॒न्येषां॑ वा य॒ो दे॒वानां॒ तान्सा॑रङ्ग प॒रमं॒ नमा॑मि ॥",
+    "translation": "Wind or thought, or the Gandharva, or the twenty-seven others, or the one of other Gods, to them I offer supreme homage.",
+    "deities": ["Vayu", "Gandharva"],
+    "themes": ["Wind", "Homage", "Subtlety"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 22,
+    "verse": 17,
+    "sanskrit": "विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑च॒ यः पार्थि॑वानि विम॒मे रजां॑सि ॥",
+    "translation": "Now will I declare the heroic deeds of Vishnu, who measured the earthly regions.",
+    "deities": ["Vishnu"],
+    "themes": ["Heroism", "Measurement", "Cosmic Stepping"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 22,
+    "verse": 18,
+    "sanskrit": "तस्यो॑रुषु त्रि॒षु वि॒क्रमे॒ष्वधि॑क्षियन्ति॒ भुव॑नानि॒ विश्वा॑ ॥",
+    "translation": "All beings dwell in the shelter of his three wide strides or paces.",
+    "deities": ["Vishnu"],
+    "themes": ["Three Steps", "Shelter", "Universal"]
+  },
+
+
+  {
+    "mandala": 1,
+    "hymn": 48,
+    "verse": 1,
+    "sanskrit": "ए॒षा दि॒वो दुहि॒ता प्र॒त्यद॑र्शि॒ ज्योति॑र्वस॒ाना स॑मि॒धा शुभा॑गीः । ऋ॒तस्य॒ पन्था॒मनु॑ तिष्ठ॑ति॒ सा स॒र्वं कृ॒णोति॒ यदिदं॒ वि भ॑क्तम् ॥",
+    "translation": "This Daughter of the Sky has been seen, putting on light, kindled brightly, fair in speech. She follows the path of Ṛta, and fulfills all that has been portioned out.",
+    "deities": ["Ushas"],
+    "themes": ["Dawn", "Light", "Cosmic Order (Ṛta)", "Portioning"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 49,
+    "verse": 3,
+    "sanskrit": "इ॒यं या ते॒ दूत॑कृ॒त्या कृ॒तेय॒मार्मि॑ने॒ वेशि॑ वसु॒वनि॒स्सा ॥",
+    "translation": "May she (Ushas), the joyous, the wealth-winning, come hither, for this office of herald is done for you.",
+    "deities": ["Ushas"],
+    "themes": ["Herald", "Joy", "Wealth"]
+  },
+  
+  
+  
+  {
+    "mandala": 1,
+    "hymn": 12,
+    "verse": 1,
+    "sanskrit": "अ॒ग्निं दू॒तं वृ॑णीमहे॒ होता॑रं वि॒श्ववे॑दसम् । अ॒स्य य॒ज्ञस्य॑ सु॒क्रतुम् ॥",
+    "translation": "We choose Agni as our messenger, the Invoker who knows all things, the efficient manager of this sacrifice.",
+    "deities": ["Agni"],
+    "themes": ["Messenger", "Knowledge", "Ritual Efficiency"]
+  },
+
+
+  {
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 1,
+    "sanskrit": "सु॒रू॒प॒कृ॒त्नुमू॒तये॑ सु॒दुघा॑मिव गो॒दुहे᳚ । जु॒हू॒मसि॒ द्यवि॑द्यवि ॥",
+    "translation": "We call the fair-performing Indra for succor day by day, like the milch-cow to the milker.",
+    "deities": ["Indra"],
+    "themes": ["Invocation", "Succor", "Daily Ritual"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 6,
+    "sanskrit": "वि बृ॑ह॒ता सु॒शुष्मि॑णा॒ वरा॑य शत्रुम॒र्धिन॑ । इन्द्रा॒भ्यम॑र्दिषत् ॥",
+    "translation": "He cleft the cloud, ever bounteous Indra, irresistible hero! to win the great spoil by his great might.",
+    "deities": ["Indra"],
+    "themes": ["Cloud-Slaying", "Heroism", "Conquest"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 1,
+    "sanskrit": "वा॒यवा या॑हि द॒र्शते॒मे सोमा॒ अरं॑ कृ॒ताः । तेषां॑ पिब शुचिषिप॒रया॒ धिया॑ ॥",
+    "translation": "Beautiful Vayu, come: these Soma drops have been prepared for you. Drink of them, hearken to our call.",
+    "deities": ["Vayu"],
+    "themes": ["Soma", "Purity", "Invocation"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 7,
+    "sanskrit": "मि॒त्रं हु॑वे पू॒तद॑क्षं॒ वरु॑णं च रि॒शाद॑सम् । धियं॑ घृ॒ताचीं॒ साध॑न्ता ॥",
+    "translation": "I call Mitra, of purified power, and foe-destroying Varuna, completing the rite rich in ghee.",
+    "deities": ["Vayu", "Mitra", "Varuna"],
+    "themes": ["Purification", "Rite", "Ghee"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 22,
+    "verse": 1,
+    "sanskrit": "प्रात॑र्युजा॒ वि वो॑ दे॒वा॒नाव॑र्धे॒न्या। आ॒श्वि॒ना॒व॒ह्वया॑महे ॥",
+    "translation": "We call on you, O Ashvins, Divinities to be glorified, joined together at the morning rite.",
+    "deities": ["Ashvins"],
+    "themes": ["Morning Rite", "Invocation", "Glory"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 46,
+    "verse": 10,
+    "sanskrit": "यु॒वं ह॑ भु॒ज्युं यु॒वम॒श्विना॒ रथै॒रपां॒ नपा॑तं॒ सव॑ना॒वगच्छ॑तम् ॥",
+    "translation": "You two conveyed Bhujyu; you, O Ashvins, with your car, came to the call of the Son of Waters.",
+    "deities": ["Ashvins"],
+    "themes": ["Rescue", "Carriage", "Mythology"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 15,
+    "verse": 6,
+    "sanskrit": "मि॒त्रावरु॑णा॒वश्वि॑ना॒ त्वाष्ट॒रमव॑ सेधतम् । ब्र॒ह्म॒णा व॑र्धय॒तम् ॥",
+    "translation": "Mitra-Varuna, the Ashvins, and Tvashtar, urge on our prayer; promote it with devotion.",
+    "deities": ["Mitra", "Varuna", "Ashvins", "Tvashtar"],
+    "themes": ["Prayer", "Devotion", "Promotion"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 23,
+    "verse": 5,
+    "sanskrit": "पुना॑ति ते प॒रि॒स्रु॑तं॒ सोमं॑ सूर्य॑स्य दुहि॒ता ॥",
+    "translation": "The daughter of the Sun purifies the pressed Soma juice for you (Mitra and Varuna).",
+    "deities": ["Mitra", "Varuna", "Surya (Daughter)"],
+    "themes": ["Purification", "Soma", "Sun"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 37,
+    "verse": 1,
+    "sanskrit": "कण्वा॑ इव॒ प्र गा॑यत॒ भद्रा॒ भद्रो॒क्तिभि॑स्सु॒तम् । स्तोमं॑ विश्व॒प्रियं॒ नरः॑ ॥",
+    "translation": "Sing forth a fair, bright hymn, O men, to the Company of Maruts, acceptable to all, like the Kanvas.",
+    "deities": ["Maruts"],
+    "themes": ["Hymn", "Praise", "Company"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 85,
+    "verse": 12,
+    "sanskrit": "रथा॑ँ अ॒वा॑न् ऋ॒ष्टि॒म॑त॒स्सुध॑नवः॒ पृष॑तीर्यु॒ञ्जते॑ । म॒रुतो॒ अध्व॑नो वि॒दुः ॥",
+    "translation": "With their spears and bows they yoke their spotted mares to their chariots; the Maruts know the ways.",
+    "deities": ["Maruts"],
+    "themes": ["Chariot", "Weapons", "Travel"]
+  },
+
+  {
+    "mandala": 1,
+    "hymn": 43,
+    "verse": 1,
+    "sanskrit": "कद्रा॑य रु॒द्राय॒ मीळ्हु॑षे॒ कं क्षय॑द्वी॒राय॒ नम॑सा दि॒शेम ॥",
+    "translation": "To Rudra, the bountiful, with our reverence, let us declare what is good for the powerful Hero.",
+    "deities": ["Rudra"],
+    "themes": ["Reverence", "Bounty", "Heroism"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 114,
+    "verse": 1,
+    "sanskrit": "इ॒मा रु॒द्राय॑ त॒वसे॑ क॒प॒र्दिने᳚ क्षय॒द्वीरा॑य॒ प्र भ॑रामहे म॒तीः । यथा॒ शमसु॑म॒द्द्विप॑दे॒ चतु॑ष्पदे॒ विश्वं॑ पु॒ष्टं ग्रा॒मे अ॒स्मिन्नना॑तुरम् ॥",
+    "translation": "To strong Rudra with the braided hair, the ruler of heroes, we bring these songs: that bliss may be with our two-footed and four-footed creatures, and all growth in this village be healthy.",
+    "deities": ["Rudra"],
+    "themes": ["Health", "Braided Hair", "Protection", "Bounty"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 48,
+    "verse": 1,
+    "sanskrit": "ए॒षा दि॒वो दुहि॒ता प्र॒त्यद॑र्शि॒ ज्योति॑र्वस॒ाना स॑मि॒धा शुभा॑गीः । ऋ॒तस्य॒ पन्था॒मनु॑ तिष्ठ॑ति॒ सा स॒र्वं कृ॒णोति॒ यदिदं॒ वि भ॑क्तम् ॥",
+    "translation": "This Daughter of the Sky has been seen, putting on light, kindled brightly, fair in speech. She follows the path of Ṛta, and fulfills all that has been portioned out.",
+    "deities": ["Ushas"],
+    "themes": ["Dawn", "Light", "Cosmic Order (Ṛta)", "Portioning"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 49,
+    "verse": 3,
+    "sanskrit": "इ॒यं या ते॒ दूत॑कृ॒त्या कृ॒तेय॒मार्मि॑ने॒ वेशि॑ वसु॒वनि॒स्सा ॥",
+    "translation": "May she (Ushas), the joyous, the wealth-winning, come hither, for this office of herald is done for you.",
+    "deities": ["Ushas"],
+    "themes": ["Herald", "Joy", "Wealth"]
+  },
+
+ 
+  {
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 7,
+    "sanskrit": "आ दे॒वा॑सो॒ ममूहि॑रे॒ विश्वे॑ दे॒वास॒ आदितः॑ । हव्य॒दावा॑नमू॒तये᳚ ॥",
+    "translation": "The Gods, all of them, from the beginning, have directed the offering-giver to wealth.",
+    "deities": ["Viśvedevas"],
+    "themes": ["Offering", "Wealth", "Divine Direction"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 20,
+    "verse": 7,
+    "sanskrit": "प्र णः॑ पूर्व॒स्मिन् मि॒त्राव॑रुणा । इ॒न्द्र॒ग्नी अ॒श्विना॑ वि॒श्वदे॑वाः ॥",
+    "translation": "May Mitra-Varuna, Indra-Agni, the Ashvins, and the Viśvedevas lead us forth in the first (sacrifice).",
+    "deities": ["Viśvedevas", "Mitra", "Varuna", "Indra", "Agni", "Ashvins"],
+    "themes": ["Leadership", "Sacrifice", "Guidance"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 40,
+    "verse": 1,
+    "sanskrit": "बृह॒स्पतिः॑ प्र॑थ॒मं जाय॑मानो म॒हो ज्योति॑षः पर॒मे व्यो॑मन् । स॒प्तास्य॑स्तु॒विजा॒तो रव॑णो॒ वि स॒प्तर॑श्मिरधमत्तमां॑सि ॥",
+    "translation": "Bṛhaspati, first born from the great light in the highest heaven, of seven mouths, loudly roaring, dispelled the darkness with his seven rays.",
+    "deities": ["Bṛhaspati"],
+    "themes": ["Birth", "Light", "Heaven", "Darkness"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 40,
+    "verse": 3,
+    "sanskrit": "आ नो॒ भर॒ भगा॑वत्तव॒च्यं॑ दे॒वा नः॑ स॒न्तो ब्र॑ह्म॒णे व॑र्धयन्तु ॥",
+    "translation": "Bring us, O Bhaga, strength! May the Gods be ours and make our prayer grow stronger.",
+    "deities": ["Bṛhaspati", "Bhaga"],
+    "themes": ["Strength", "Prayer", "Growth"]
+  },
+
+ 
+  {
+    "mandala": 1,
+    "hymn": 22,
+    "verse": 17,
+    "sanskrit": "विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑च॒ यः पार्थि॑वानि विम॒मे रजां॑सि ॥",
+    "translation": "Now will I declare the heroic deeds of Vishnu, who measured out the earthly regions.",
+    "deities": ["Vishnu"],
+    "themes": ["Heroism", "Measurement", "Cosmic Stepping"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 22,
+    "verse": 18,
+    "sanskrit": "तस्यो॑रुषु त्रि॒षु वि॒क्रमे॒ष्वधि॑क्षियन्ति॒ भुव॑नानि॒ विश्वा॑ ॥",
+    "translation": "All beings dwell in the shelter of his three wide strides or paces.",
+    "deities": ["Vishnu"],
+    "themes": ["Three Steps", "Shelter", "Universal"]
+  },
+
+  
+  {
+    "mandala": 1,
+    "hymn": 159,
+    "verse": 1,
+    "sanskrit": "अ॒हमिद्धि॑ पितुः सु॒भगो॑ नाम॒धेय॒ इमां घियं॑ विममा॒न आयोः । भारे॒ क्रा॒णो॒ यद॒य॒न॒स्य स॒र्वस्या॒हं भूमि॒रेको॑ अ॒स्य॒ स॒र्वस्य॑ ॥",
+    "translation": "I am the son of my father, glorious is my name, composing this prayer for man. I am the earth, alone, the support of all that moves.",
+    "deities": ["Dyāvāpṛthivī", "Earth", "Heaven"],
+    "themes": ["Cosmic Parents", "Support", "Praise"]
+  },
+  {
+    "mandala": 1,
+    "hymn": 159,
+    "verse": 6,
+    "sanskrit": "दे॒वी नः॒ पत्नी॑ अ॒हं पति॑र्न॒मोऽस्तु॑ । नमो॑ दि॒व्येभ्य॒श्शुभा॑यै॒व नमो॑ ह॒व्यैभ्यो॒ नमो॑ दे॒वीभ्यः॑ स॒र्वदा॑ न॒मोऽस्तु॑ ॥",
+    "translation": "May the two Worlds, the divine Mother and Father, grant us their auspicious protection and happiness, always.",
+    "deities": ["Dyāvāpṛthivī", "Heaven", "Earth"],
+    "themes": ["Protection", "Auspiciousness", "Parental"],
+     "keywords": ["worlds", "parents", "heaven", "earth", "auspicious"]
+  },
+  {
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 1,
+    "sanskrit": "तवमग्ने दयुभिस्त्वमाशुशुक्षणिस्त्वमद्भ्यस्त्वमश्मनस परि |तवं वनेभ्यस्त्वमोषधीभ्यस्त्वं नर्णां नर्पते जायसे शुचिः ||",
+    "translation": "1. THOU, Agni, shining in thy glory through the days, art brought to life from out the waters, from the stone: From out the forest trees and herbs that grow on ground, thou, Sovran Lord of men art generated pure.",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Generation", "Purity" ]
+  },
+  {
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 2,
+    "sanskrit": "तवाग्ने होत्रं तव पोत्रं रत्वियं तव नेष्ट्रं तवमग्निद रतायतः | तव परशास्त्रं तवमध्वरीयसि बरह्मा चासि गर्हपतिश्च नो दमे ||",
+    "translation": "Thine is the Herald's task and Cleanser's duly timed; Leader art thou, and Kindler for the pious man. Thou art Director, thou the ministering Priest: thou art the Brahman, Lord and Master in our home.",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Priesthood", "Leadership"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 3,
+    "sanskrit": "तवमग्न इन्द्रो वर्षभः सतामसि तवं विष्णुरुरुगायो नमस्यः | तवं बरह्मा रयिविद बरह्मणस पते तवं विधर्तःसचसे पुरन्ध्या ||",
+    "translation": "Hero of Heroes, Agni! Thou art Indra, thou art Viṣṇu of the Mighty Stride, adorable: Thou, Brahmaṇaspati, the Brahman finding wealth: thou, O Sustainer, with thy wisdom tendest us.",
+    "deities": ["Agni","Indra", "Vishnu", "Brahmanaspati"],
+    "themes": ["Agni", "Divine Identities", "Sustenance"]
+  },
+{
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 4,
+    "sanskrit": "तवमग्ने राजा वरुणो धर्तव्रतस्त्वं मित्रो भवसि दस्म ईड्यः | तवमर्यमा सत्पतिर्यस्य सम्भुजं तवमंशो विदथे देव भाजयुः ||",
+    "translation": "Agni, thou art King Varuṇa whose laws stand fast; as Mitra, Wonder-Worker, thou must be implored. Aryaman, heroes' Lord, art thou, enriching all, and liberal Aṁśa in the synod, O thou God.",
+    "deities": ["Varuna", "Mitra", "Aryaman", "Aṁśa", "Agni"],
+    "themes": ["Agni", "Divine Identities", "Law", "Generosity" ]
+  },
+{
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 1,
+    "sanskrit": "यज्ञेन वर्धत जातवेदसमग्निं यजध्वं हविषा तना गिरा | समिधानं सुप्रयसं सवर्णरं दयुक्षं होतारंव्र्जनेषु धूर्षदम ||",
+    "translation": "WITH sacrifice exalt Agni who knows all life; worship him with oblation and the song of praise, Well kindled, nobly fed; heaven's Lord, Celestial Priest, who labours at the pole where deeds of might are done.",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Sacrifice", "Worship"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 2,
+    "sanskrit": "यज्ञेन वर्धत जातवेदसमग्निं यजध्वं हविषा तना गिरा | समिधानं सुप्रयसं सवर्णरं दयुक्षं होतारंव्र्जनेषु धूर्षदम ||",
+    "translation": "WITH sacrifice exalt Agni who knows all life; worship him with oblation and the song of praise, Well kindled, nobly fed; heaven's Lord, Celestial Priest, who labours at the pole where deeds of might are done.",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Sacrifice", "Worship"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 5,
+    "sanskrit": "स होता विश्वं परि भूत्वध्वरं तमु हव्यैर्मनुष रञ्जते गिरा | हिरिशिप्रो वर्धसानासु जर्भुरद दयौर्न सत्र्भिश्चितयद रोदसी अनु ||",
+    "translation": "May he as Priest encompass all the sacrifice. men throng to him with offerings and with hymns of praise. Raging with jaws of gold among the growing plants, like heaven with all the stars, ",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Sacrifice", "Priesthood"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 1,
+    "sanskrit": "समिद्धो अग्निर्निहितः पर्थिव्यां परत्यं विश्वानि भुवनान्यस्थात | होता पावकः परदिवः सुमेधा देवो देवान यजत्वग्निरर्हन ||",
+    "translation": ". AGNI is set upon the earth well kindled; he standeth in the presence of all beings. Wise, ancient, God, the Priest and Purifier, let Agni serve the Gods for he is worthy.",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Purification", "Worship"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 6,
+    "sanskrit": "साध्वपांसि सनता न उक्षिते उषासानक्ता वय्येव रण्विते | तन्तुं ततं संवयन्ती समीची यज्ञस्य पेशः सुदुघे पयस्वती ||",
+    "translation": "Good work for us, the glorious Night and Morning, like female weavers, waxen from aforetime, Yielders of rich milk, interweave in concert the long-extended thread, the web of worship.",
+    "deities": ["Apris"],
+    "themes": ["Apris", "Worship", "Cosmic Order"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 6,
+    "sanskrit": "सरस्वती साधयन्ती धियं न इळा देवी भारती विश्वतूर्तिः | तिस्रो देवीः सवधया बर्हिरेदमछिद्रं पान्तुशरणं निषद्य ||",
+    "translation": " Sarasvatī who perfects our devotion, Iḷā divine, Bhāratī all surpassing,— Three Goddesses, with power inherent, seated, protect this holy Grass, our flawless refuge!",
+    "deities": ["sarasvati", "Ila", "Bharati", "Apris"],
+    "themes": ["Sarasvati", "Ila", "Bharati", "Worship"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 1,
+    "sanskrit": "हुवे वः सुद्योत्मानं सुव्र्क्तिं विशामग्निमतिथिं सुप्रयसम | मित्र इव यो दिधिषाय्यो भूद देव आदेवे जने जातवेदाः ||",
+    "translation": "FOR you I call the glorious refulgent Agni, the guest of men, rich in oblations Whom all must strive to win even as a lover, God among godly people, Jātavedas.",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Invocation", "Oblation"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 9,
+    "sanskrit": "तवया यथा गर्त्समदासो अग्ने गुहा वन्वन्त उपरानभि षयुः | सुवीरासो अभिमातिषाहः समत सूरिभ्यो गर्णते तद वयो धाः ||",
+    "translation": "May the Gṛtsamadas, serving in secret, through thee, O Agni, overcome their neighbours,Rich in good heroes and subduing foemen. That vital power give thou to chiefs and singers.",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Victory", "Power"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 5,
+    "sanskrit": "आ यन मे अभ्वं वनदः पनन्तोशिग्भ्यो नामिमीत वर्णम | स चित्रेण चिकिते रंसु भासा जुजुर्वान यो मुहुरा युवा भूत ||",
+    "translation": "Since they who honour me have praised my greatness,—he gave, as ’twere, his hue to those who love him. Known is he by his bright delightful splendour, and waxing old renews his youth for ever.",
+    "deities": ["Agni"],
+    "themes": ["Agni", "Invocation", "Oblation"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 23,
+    "verse": 1,
+    "sanskrit": "गणानां तवा गणपतिं हवामहे कविं कवीनामुपमश्रवस्तमम | जयेष्ठराजं बरह्मणां बरह्मणस पत आ नः षर्ण्वन्नूतिभिः सीद सादनम ||",
+    "translation": "WE call thee, Lord and Leader of the heavenly hosts, the wise among the wise, the famousest of all,The King supreme of prayers, O Brahmaṇaspati: hear us with help; sit down in place of sacrifice.",
+    "deities": ["Brahmanaspati"],
+    "themes": ["Brahmanaspati", "Invocation", "Leadership"]
+  },
+{
+    "mandala": 2,
+    "hymn": 27,
+    "verse": 1,
+    "sanskrit": "इमा गिर आदित्येभ्यो घर्तस्नूः सनाद राजभ्यो जुह्वा जुहोमि | शर्णोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ||",
+    "translation": "THESE hymns that drop down fatness, with the ladle I ever offer to the Kings Ādityas.May Mitra, Aryaman, and Bhaga hear us, the mighty Varuṇa Dakṣa, and Aṁśa.",
+    "deities": ["Brahmanaspati", "Mitra", "Aryaman", "Bhaga", "Varuna", "Daksha", "Aṁśa"],
+    "themes": ["Brahmanaspati", "Invocation", "Divine Assembly"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 27,
+    "verse": 3,
+    "sanskrit": "त आदित्यास उरवो गभीरा अदब्धासो दिप्सन्तो भूर्यक्षाः | अन्तः पश्यन्ति वर्जिनोत साधु सर्वं राजभ्यः परमा चिदन्ति ||",
+    "translation": "These Gods, Ādityas, vast, profound, and faithful, with many eyes, fain to deceive the wicked, Looking within behold the good and evil near to the Kings is even the thing most distant.",
+    "deities": ["Brahmanaspati", "Mitra", "Aryaman", "Bhaga", "Varuna", "Daksha", "Aṁśa"],
+    "themes": ["Brahmanaspati", "Invocation", "Divine Assembly"  ,"Perception"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 27,
+    "verse": 14,
+    "sanskrit": "अदिते मित्र वरुणोत मर्ळ यद वो वयं चक्र्मा कच्चिदागः | उर्वश्यामभयं जयोतिरिन्द्र मा नो दीर्घा अभि नशन तमिस्राः ||",
+    "translation": "Aditi, Mitra, Varuṇa, forgive us however we have erred and sinned against you. May I obtain the broad light free from peril: O Indra, let not during darkness seize us.",
+    "deities": ["aditi", "Mitra", "Varuna", "Indra" ],
+    "themes": ["Forgiveness", "Light", "Protection", "Divine Assembly"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 33,
+    "verse": 1,
+    "sanskrit": "आ ते पितर्मरुतां सुम्नमेतु मा नः सूर्यस्य सन्द्र्षो युयोथाः | अभि नो वीरो अर्वति कषमेत पर जायेमहि रुद्र परजाभिः ||",
+    "translation": "FATHER of Maruts, let thy bliss approach us: exclude us not from looking on the sunlight. Gracious to our fleet courser be the Hero may we transplant us, Rudra, in our children.",
+    "deities": ["Maruts", "Rudra"],
+    "themes": ["Maruts", "Rudra", "Protection", "Blessing"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 33,
+    "verse": 7,
+    "sanskrit": "कव सय ते रुद्र मर्ळयाकुर्हस्तो यो अस्ति भेषजो जलाषः | अपभर्ता रपसो दैव्यस्याभी नु मा वर्षभ चक्षमीथाः ||",
+    "translation": "Where is that gracious hand of thine, O Rudra, the hand that giveth health and bringeth comfort, Remover of the woe that Gods have sent us? O Strong One, look thou on me with compassion.",
+    "deities": ["Maruts", "Rudra"],
+    "themes": ["Maruts", "Rudra", "Healing", "Compassion"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 33,
+    "verse": 15,
+    "sanskrit": "एवा बभ्रो वर्षभ चेकितान यथा देव न हर्णीषे न हंसि | हवनश्रुन नो रुद्रेह बोधि बर्हद व. व. स. ||",
+    "translation": "O tawny Bull, thus showing forth thy nature, as neither to be wroth, O God, nor slay us. Here, Rudra, listen to our invocation. Loud may we speak, with heroes, in assembly.",
+    "deities": ["Maruts", "Rudra"],
+    "themes": ["Maruts", "Rudra", "Peace", "Invocation"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 35,
+    "verse": 1,
+    "sanskrit": "उपेमस्र्क्षि वाजयुर्वचस्यां चनो दधीत नाद्यो गिरो मे | अपां नपादाशुहेमा कुवित स सुपेशसस करति जोषिषद धि ||",
+    "translation": "EAGER for spoil my flow of speech I utter: may the Floods' Child accept my songs with favour.Will not the rapid Son of Waters make them lovely, for he it is who shall enjoy them? ",
+    "deities": ["Maruts", "Rudra", "Apas (Waters)"],
+    "themes": ["Maruts", "Rudra", "Apas (Waters)", "Speech", "Enjoyment"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 35,
+    "verse": 3,
+    "sanskrit": "समन्या यन्त्युप यन्त्यन्याः समानमूर्वं नद्यः पर्णन्ति | तमू शुचिं शुचयो दीदिवांसमपां नपातं परि तस्थुरापः ||",
+    "translation": " Some floods unite themselves and others join them: die sounding rivers fill one common storehouse. On every side the bright Floods have encompassed the bright resplendent Offspring of the Waters",
+    "deities": ["Maruts", "Rudra", "Apas (Waters)"],
+    "themes": ["Maruts", "Rudra", "Apas (Waters)", "Unity", "Resplendence"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 35,
+    "verse": 10,
+    "sanskrit": "हिरण्यरूपः स हिरण्यसन्द्र्गपां नपात सेदु हिरण्यवर्णः | हिरण्ययात परि योनेर्निषद्या हिरण्यदा ददत्यन्नमस्मै ||",
+    "translation": "Golden in form is he, like gold to look on, his colour is like gold, the Son of Waters. When he is seated fresh from golden birthplace those who present their gold give food to feed him",
+    "deities": ["Maruts", "Rudra", "Apas (Waters)"],
+    "themes": ["Maruts", "Rudra", "Apas (Waters)", "Gold", "Nourishment"]
+  },
+{
+    "mandala": 2,
+    "hymn": 32,
+    "verse": 1,
+    "sanskrit": "अस्य मे दयावाप्र्थिवी रतायतो भूतमवित्री वचसः सिषासतः | ययोरायः परतरं ते इदं पुर उपस्तुते वसूयुर्वां महो दधे ||",
+    "translation": " GRACIOUSLY further, O ye Heaven and Earth, this speech striving to win reward, of me your worshipper.First rank I give to you, Immortal, high extolled! I, fain to win me wealth, to you the mighty Pair.",
+    "deities": ["Heaven", "Earth"],
+    "themes": ["Heaven", "Earth", "Worship", "Wealth"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 32,
+    "verse": 4,
+    "sanskrit": "राकामहं सुहवां सुष्टुती हुवे शर्णोतु नः सुभगा बोधतु तमना | सीव्यत्वपः सूच्याछिद्यमानया ददातु वीरं सतदायमुक्थ्यम ||",
+    "translation": "With eulogy I call on Rākā swift to hear may she, auspicious, hear us, and herself observe. With never-breaking needle may she sew her work, and give a hero son most wealthy, meet for praise.",
+    "deities": ["Raka"],
+    "themes": ["Raka", "Eulogy", "Wealth", "Sewing"  ]
+  },
+{
+    "mandala": 2,
+    "hymn": 32,
+    "verse": 7,
+    "sanskrit": "या सुबाहुः सवङगुरिः सुषूमा बहुसूवरी | तस्यै विश्पत्न्यै हविः सिनीवाल्यै जुहोतन ||",
+    "translation": " With lovely fingers, lovely arms, prolific Mother of many sons— Present the sacred gifts to her, to Sinīvālī Queen of men.",
+    "deities": ["sinivali"],
+    "themes": ["sinivali", "Fertility", "Motherhood", "Offering"]
+  },
+{
+    "mandala": 2,
+    "hymn": 36,
+    "verse": 7,
+    "sanskrit": "अमेव नः सुहवा आ हि गन्तन नि बर्हिषि सदतना रणिष्टन | अथा मन्दस्व जुजुषाणो अन्धसस्त्वष्टर्देवेभिर्जनिभिः सुमद्गणः ||",
+    "translation": "Come unto us, ye swift to listen: as at home upon the sacred grass sit and enjoy yourselves. And, Tvaṣṭar, well-content be joyful in the juice with Gods and Goddesses in gladsome company.",
+    "deities": ["Tvashtar"],
+    "themes": ["Tvashtar", "Joy", "Divine Company", "Soma"  ]
+  },
+{
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 3,
+    "sanskrit": "मयो दधे मेधिरः पूतदक्षो दिवः सुबन्धुर्जनुषा पर्थिव्याः | अविन्दन्नु दर्शतमप्स्वन्तर्देवासो अग्निमपसि सवसॄणाम ||",
+    "translation": "The Prudent, he whose will is pure, brought welfare, allied by birth to Heaven and Earth in kinship.The Gods discovered in the midst of waters beautiful Agni with the Sisters' labour.",
+    "deities": ["Agni", "Heaven", "Earth"],
+    "themes": ["Agni", "Heaven", "Earth", "Purity", "Welfare"]
+  },
+{
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 15,
+    "sanskrit": "ईळे च तवा यजमानो हविर्भिरीळे सखित्वं सुमतिं निकामः | देवैरवो मिमीहि सं जरित्रे रक्षा च नो दम्येभिरनीकैः ||",
+    "translation": "I sacrificing serve thee with oblations and crave with longing thy good-will and friendship.Grant, with the Gods, thy grace to him who lauds thee, protect us with thy rays that guard the homestead.",
+    "deities": ["Agni", "Heaven", "Earth"],
+    "themes": ["Agni", "Heaven", "Earth", "Friendship", "Protection"]
+  },
+  {
+    "mandala": 3,
+    "hymn": 2,
+    "verse":4,
+    "sanskrit": "आ मन्द्रस्य सनिष्यन्तो वरेण्यं वर्णीमहे अह्रयं वाजम्र्ग्मियम |रातिं भर्गूणामुशिजं कविक्रतुमग्निं राजन्तं दिव्येन शोचिषा ||",
+    "translation": "Eager to gain, we crave from him the friendly God strength confident, choiceworthy meet to be extolled:The Bhṛgus' bounty, willing, strong with sages' lore, even Agni shining forth with light that comes from heaven.",
+    "deities": ["Agni", "bhruguas", "Heaven"],
+    "themes": ["Agni", "Bhrigus", "Heaven", "Strength", "Wisdom"]
+  },
+{
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 12,
+    "sanskrit": "वैश्वानरः परत्नथा नाकमारुहद दिवस पर्ष्ठं भन्दमानः सुमन्मभिः |स पूर्ववज्जनयञ जन्तवे धनं समानमज्मं पर्येति जाग्र्विः ||",
+    "translation": "Vaiśvānara, as of old, mounted the cope of heaven, heaven's ridge, well greeted, by those skilled in noble songs.He, as of old, producing riches for the folk, still watchful, traversesthe common way again.",
+    "deities": ["vaisvanara", "Heaven"],
+    "themes": ["vaisvanara", "Heaven", "Wealth", "Watchfulness"]
+  },
+{
+    "mandala": 3,
+    "hymn": 30,
+    "verse": 1,
+    "sanskrit": "इछन्ति तवा सोम्यासः सखायः सुन्वन्ति सोमं दधति परयांसि | तितिक्षन्ते अभिशस्तिं जनानामिन्द्र तवदा कश्चन हि परकेतः ||",
+    "translation": " THE friends who offer Soma long to find thee: they pour forth Soma and present their viands. They bear unmoved the cursing of the people, for all our wisdom comes from thee, O Indra.",
+    "deities": ["indra"],
+    "themes": ["indra", "Soma", "Wisdom", "Endurance"  ]
+  },
+{
+    "mandala": 3,
+    "hymn": 30,
+    "verse":17,
+    "sanskrit": "उद वर्ह रक्षः सहमूलमिन्द्र वर्श्चा मध्यं परत्यग्रंश्र्णीहि |आ कीवतः सललूकं चकर्थ बरह्मद्विषे तपुषिं हेतिमस्य ||",
+    "translation": " Root up the race of Rākṣasas, O Indra rend it in front and crush it in the middle. How long hast thou bebaved as one who wavers? Cast thy hot dart at him who hates devotion:",
+    "deities": ["indra"],
+    "themes": ["indra", "Rākṣasas", "Devotion", "Destruction"]
+  },
+{
+    "mandala": 3,
+    "hymn": 30,
+    "verse":22,
+    "sanskrit": "शुनं हुवेम मघवानमिन्द्रमस्मिन भरे नर्तमं वाजसातौ | शर्ण्वन्तमुग्रमूतये समत्सु घनन्तं वर्त्राणि संजितं धनानाम ||",
+    "translation": "Call we on Maghavan, auspicious Indra, best Hero in this fight where spoil is gathered, The Strong who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.",
+    "deities": ["indra"],
+    "themes": ["indra", "Maghavan", "Victory", "Wealth"  ]
+  },{
+    "mandala": 3,
+    "hymn": 31,
+    "verse": 21,
+    "sanskrit": "मिहः पावकाः परतता अभूवन सवस्ति नः पिप्र्हि पारमासाम | इन्द्र तवं रथिरः पाहि नो रिषो मक्षू-मक्षू कर्णुहि गोजितो नः ||",
+    "translation": "His kine their Lord hath shown, e’en Vṛtra's slayer, through the black hosts he passed with red attendants.Teaching us pleasant things by holy Order, to, us hath he thrown open all his portals",
+    "deities": ["indra"],
+    "themes": ["indra", "Vritra", "Victory", "Prosperity"  ]
+  },
+{
+    "mandala": 3,
+    "hymn": 59,
+    "verse": 1,
+    "sanskrit": "मित्रो जनान यातयति बरुवाणो मित्रो दाधार पर्थिवीमुत दयाम | मित्रः कर्ष्टीरनिमिषाभि चष्टे मित्राय हव्यंघ्र्तवज्जुहोत ||",
+    "translation": ". MITRA, when speaking, stirreth men to labour: Mitra sustaineth both the earth and heaven.Mitra beholdeth men with eyes that close not. To Mitra bring, with holy oil, oblation.",
+    "deities": ["Mitra"],
+    "themes": ["Mitra", "Labor", "Sustenance", "Oblation"  ]
+  },
+{
+    "mandala": 3,
+    "hymn": 59,
+    "verse": 9,
+    "sanskrit": "मित्रो देवेष्वायुषु जनाय वर्क्तबर्हिषे | इष इष्टव्रताकः ||",
+    "translation": "Mitra to Gods, to living men, to him who strews the holy grass, Gives food fulfilling sacred Law.",
+    "deities": ["Mitra"],
+    "themes": ["Mitra", "Divine Favor", "Sacred Law", "Provision"  ]
+  },
+{
+    "mandala": 3,
+    "hymn": 60,
+    "verse": 1,
+    "sanskrit": "इहेह वो मनसा बन्धुता नर उशिजो जग्मुरभि तानि वेदसा | याभिर्मायाभिः परतिजूतिवर्पसः सौधन्वना यज्ञियं भागमानश ||",
+    "translation": " HERE is your ghostly kinship, here, O Men: they came desirous to these holy rites with store of wealth,With wondrous arts, whereby, with schemes to meet each need, Ye gained, Sudhanvan's Sons! your share in sacrifice.",
+    "deities": ["rbhus"],
+    "themes": ["rbhus", "Kinship", "Wealth", "Wondrous Arts", "Sacrifice"  ]
+  },
+{
+    "mandala": 3,
+    "hymn": 60,
+    "verse": 7,
+    "sanskrit": "इन्द्र रभुभिर्वाजिभिर्वाजयन्निह सतोमं जरितुरुप याहि यज्ञियम | शतं केतेभिरिषिरेभिरायवे सहस्रणीथोध्वरस्य होमनि ||",
+    "translation": "Come with the mighty Ṛbhus, Indra, come to us, strengthening with thy help the singer's holy praise;At hundred eager calls come to the living man, with thousand arts attend the act of sacrifice.",
+    "deities": ["rbhus", "Indra"],
+    "themes": ["rbhus", "Indra", "Strength", "Sacrifice", "Praise"  ]
+  },
+{
+    "mandala": 3,
+    "hymn": 61,
+    "verse": 2,
+    "sanskrit": "उषो देव्यमर्त्या वि भाहि चन्द्ररथा सून्र्ता ईरयन्ती | आ तवा वहन्तु सुयमासो अश्वा हिरण्यवर्णां पर्थुपाजसो ये ||",
+    "translation": "Shine forth, O Morning, thou auspicious Goddess, on thy bright car awaking pleasant voices. Let docile horses of far-reaching splendour convey thee hitherward, the goldencoloured.",
+    "deities": ["ushas", "Chandra (Moon)"],
+    "themes": ["ushas", "Chandra (Moon)", "Dawn", "Divine Conveyance"  ]
+  },
+  
+{
+    "mandala": 3,
+    "hymn": 61,
+    "verse": 6,
+    "sanskrit": "रतावरी दिवो अर्कैरबोध्या रेवती रोदसी चित्रमस्थात | आयतीमग्न उषसं विभातीं वाममेषि दरविणं भिक्षमाणः ||",
+    "translation": "From heaven, with hymns, the Holy One was wakened: brightly to both worlds came the wealthy Lady.To Morning, Agni, when she comes refulgent, thou goest forth soliciting fair riches.",
+    "deities": ["ushas", "Chandra (Moon)"],
+    "themes": ["ushas", "Chandra (Moon)", "Dawn", "Wealth Solicitation"  ]
+  },
+{
+    "mandala": 3,
+    "hymn": 62,
+    "verse": 14,
+    "sanskrit": "सोमो अस्मभ्यं दविपदे चतुष्पदे च पशवे | अनमीवा इषस करत ||",
+    "translation": " To us and to our cattle may Soma give salutary food, To biped and to quadruped.",
+    "deities": ["Chandra (Moon)"],
+    "themes": ["Chandra (Moon)", "Soma", "Nourishment", "Cattle"  ]
+  },
+  
+{
+    "mandala": 3,
+    "hymn": 62,
+    "verse": 15,
+    "sanskrit": "अस्माकमायुर्वर्धयन्नभिमातीः सहमानः | सोमः सधस्थमासदत ||",
+    "translation": " May Soma, strengthening our power of life, and conquering our foes, In our assembly take his seat.",
+    "deities": ["Chandra (Moon)"],
+    "themes": ["Chandra (Moon)", "Soma", "Strength", "Victory"  ]
+  },
+  
+{
+    "mandala": 3,
+    "hymn": 62,
+    "verse": 16,
+    "sanskrit": "आ नो मित्रावरुणा घर्तैर्गव्यूतिमुक्षतम | मध्वा रजांसि सुक्रतू ||",
+    "translation": " May Mitra-Varuṇa, sapient Pair, bedew our pasturage with oil, With meatb the regions of the air.",
+    "deities": ["Chandra (Moon)", "Mitra", "Varuna"],
+    "themes": ["Chandra (Moon)", "Mitra", "Varuna", "Pasturage", "Nourishment"  ]
+  },
+{
+    "mandala": 4,
+    "hymn": 18,
+    "verse": 1,
+    "sanskrit": "तवां हय अग्ने सदम इत समन्यवो देवासो देवम अरतिं नयेरिर इति करत्वा नयेरिरे | अमर्त्यं यजत मर्त्येष्व आ देवम आदेवं जनत परचेतसं विश्वम आदेवं जनत परचेतसम ||",
+    "translation": " THIS is the ancient and accepted pathway by which all Gods have come into existence.Hereby could one be born though waxen mighty. Let him not, otherwise, destroy his Mother.",
+    "deities": ["aditi"],
+    "themes": ["aditi", "Divine Origin", "Pathway", "Respect for Mother"  ]
+  },
+{
+    "mandala": 4,
+    "hymn": 18,
+    "verse": 10,
+    "sanskrit": "नेशत तमो दुधितं रोचत दयौर उद देव्या उषसो भानुर अर्त | आ सूर्यो बर्हतस तिष्ठद अज्रां रजु मर्तेषु वर्जिना च पश्यन ||",
+    "translation": " The Heifer hath brought forth the Strong, the Mighty, the unconquerable Bull, the furious Indra. The Mother left her unlicked Calf to wander, seeking himself, the path that he would follow.",
+    "deities": ["aditi"],
+    "themes": ["aditi", "Divine Origin", "Strength", "Seeking Path"  ]
+  },
+{
+    "mandala": 4,
+    "hymn": 27,
+    "verse": 1,
+    "sanskrit": "गर्भे नु सन्न अन्व एषाम अवेदम अहं देवानां जनिमानि विश्वा | शतम मा पुर आयसीर अरक्षन्न अध शयेनो जवसा निर अदीयम ||",
+    "translation": "  I, As I lay within the womb, considered all generations of these Gods in order.A hundred iron fortresses confined me but forth I flew with rapid speed a Falcon.",
+    "deities": ["Syena","falcon"],
+    "themes": ["Syena","falcon", "Divine Birth", "Freedom", "Speed"]
+  },
+{
+    "mandala": 4,
+    "hymn": 27,
+    "verse": 4,
+    "sanskrit": "रजिप्य ईम इन्द्रावतो न भुज्युं शयेनो जभार बर्हतो अधि षणोः | अन्तः पतत पतत्र्य अस्य पर्णम अध यामनि परसितस्य तद वेः ||",
+    "translation": "  The Falcon bore him from heaven's lofty summit as the swift car of Indra's Friend bore Bhujyu. Then downward hither fell a flying feather of the Bird hasting forward in his journey.",
+    "deities": ["Syena","falcon"],
+    "themes": ["Syena","falcon", "Divine Birth", "Flight", "Journey"  ]
+  },
+{
+    "mandala": 4,
+    "hymn": 27,
+    "verse": 2,
+    "sanskrit": "न घा स माम अप जोषं जभाराभीम आस तवक्षसा वीर्येण |ईर्मा पुरंधिर अजहाद अरातीर उत वातां अतरच छूशुवानः ||",
+    "translation": "Not at his own free pleasure did he bear me: he conquered with his strength and manly courage.Straightway the Bold One left the fiends behind him and passed the winds as he grew yet more mighty.",
+    "deities": ["Syena","falcon"],
+    "themes": ["Syena","falcon", "Divine Birth", "Strength", "Courage"  ]
+  },
+  
+{
+    "mandala": 4,
+    "hymn": 38,
+    "verse": 1,
+    "sanskrit": "उतो हि वां दात्रा सन्ति पूर्वा या पूरुभ्यस तरसदस्युर नितोशे |कषेत्रासां ददथुर उर्वरासां घनं दस्युभ्यो अभिभूतिम उग्रम ||",
+    "translation": "FROM you two came the gifts in days aforetime which Trasadasyu granted to the Pūrus. Ye gave the winner of our fields and plough-lands, and the strong smiter who subdued the Dasyus.",
+    "deities": ["Dadhikris"],
+    "themes": ["Dadhikris", "Divine Gifts", "Agriculture", "Victory"  ]
+  },
+  
+{
+    "mandala": 4,
+    "hymn": 38,
+    "verse": 4,
+    "sanskrit": "यः समारुन्धानो गध्या समत्सु सनुतरश चरति गोषु गछन | आविर्र्जीको विदथा निचिक्यत तिरो अरतिम पर्य आप आयोः ||",
+    "translation": "Who gaineth precious booty in the combats and moveth, winning spoil, among the cattle; Shown in bright colour, looking on the assemblies, beyond the churl, to worship of the living.",
+    "deities": ["Dadhikris"],
+    "themes": ["Dadhikris", "Victory", "Cattle", "Worship"  ]
+  },
+{
+    "mandala": 4,
+    "hymn": 38,
+    "verse": 9,
+    "sanskrit": "उत समास्य पनयन्ति जना जूतिं कर्ष्टिप्रो अभिभूतिम आशोः |उतैनम आहुः समिथे वियन्तः परा दधिक्रा असरत सहस्रैः ||",
+    "translation": "The people praise the overpowering swiftness of this fleet Steed who giveth men abundance. Of him they say when drawing back from battle. Dadhikrās hath sped forward with his thousands",
+    "deities": ["Dadhikris"],
+    "themes": ["Dadhikris", "Steed", "Abundance", "Victory"]
+  },
+  
+{
+    "mandala": 4,
+    "hymn": 50,
+    "verse": 1,
+    "sanskrit": "यस तस्तम्भ सहसा वि जमो अन्तान बर्हस्पतिस तरिषधस्थो रवेण | तम परत्नास रषयो दीध्यानाः पुरो विप्रा दधिरे मन्द्रजिह्वम ||",
+    "translation": ". Him who with might hath propped earth's ends, who sitteth in threefold seat, Bṛhaspati, with thunder,Him of the pleasant tongue have ancient sages, deep-thinking, holy singers, set before them.",
+    "deities": ["Brhaspati"],
+    "themes": ["Brhaspati", "Cosmic Order", "Wisdom", "Singing"  ]
+  },
+  
+{
+    "mandala": 4,
+    "hymn": 50,
+    "verse": 9,
+    "sanskrit": "अप्रतीतो जयति सं धनानि परतिजन्यान्य उत या सजन्या |अवस्यवे यो वरिवः कर्णोति बरह्मणे राजा तम अवन्ति देवाः ||",
+    "translation": "He, unopposed, is master of the riches of his own subjects and of hostile people.The Gods uphold that King with their protection who helps the Brahman when he seeks his favour.",
+    "deities": ["Brhaspati"],
+    "themes": ["Brhaspati", "Wealth", "Protection", "Kingship"  ]
+  },
+  
+{
+    "mandala": 4,
+    "hymn": 50,
+    "verse": 11,
+    "sanskrit": "बर्हस्पत इन्द्र वर्धतं नः सचा सा वां सुमतिर भूत्व अस्मे |अविष्टं धियो जिग्र्तम पुरंधीर जजस्तम अर्यो वनुषाम अरातीः ||",
+    "translation": " Bṛhaspati and Indra, make us prosper may this be your benevolence to us-ward. Assist our holy thoughts, wake up our spirit: weaken the hatred of our foe and rivals.",
+    "deities": ["Brhaspati"],
+    "themes": ["Brhaspati", "Indra", "Prosperity", "Wisdom", "Victory"]
+  },
+{
+    "mandala": 4,
+    "hymn": 51,
+    "verse": 1,
+    "sanskrit": "इदम उ तयत पुरुतमम पुरस्ताज जयोतिस तमसो वयुनावद अस्थात |नूनं दिवो दुहितरो विभातीर गातुं कर्णवन्न उषसो जनाय ||",
+    "translation": " FORTH from the darkness in the region eastward this most abundant splendid light hatb mounted. Now verily the far-refulgent Mornings, Daughters of Heaven, bring welfare to the people.",
+    "deities": ["Ushas"],
+    "themes": ["Ushas", "Dawn", "Light", "Welfare"  ]
+  },
+{
+    "mandala": 4,
+    "hymn": 51,
+    "verse": 4,
+    "sanskrit": "कुवित स देवीः सनयो नवो वा यामो बभूयाद उषसो वो अद्य | येना नवग्वे अङगिरे दशग्वे सप्तास्ये रेवती रेवद ऊष ||",
+    "translation": "  O Goddesses, is this your car, I ask you, ancient this day, or is it new, ye Mornings,Wherewith, rich Dawns, ye seek with wealth Navagva, Daśagva Aṅgira, the seven-toned singer?",
+    "deities": ["Ushas"],
+    "themes": ["Ushas", "Dawn", "Light", "Welfare"  ]
+  },
+  
+{
+    "mandala": 5,
+    "hymn": 40,
+    "verse": 1,
+    "sanskrit": "आ याह्य अद्रिभिः सुतं सोमं सोमपते पिब |वर्षन्न इन्द्र वर्षभिर वर्त्रहन्तम ||",
+    "translation": " COME thou to what the stones have pressed, drink Soma, O thou Soma's Lord, Indra best Vṛtra-slayer Strong One, with the Strong.",
+    "deities": ["indra", "Soma"],
+    "themes": ["indra", "Soma", "Strength", "Victory"  ]
+  },
+  
+{
+    "mandala": 5,
+    "hymn": 40,
+    "verse": 9,
+    "sanskrit": "यं वै सूर्यं सवर्भानुस तमसाविध्यद आसुरः | अत्रयस तम अन्व अविन्दन नह्य अन्ये अशक्नुवन ||",
+    "translation": " The Atris found the Sun again, him whom Svarbhanu of the brood Of Asuras had pierced with gloom. This none besides had power to do.",
+    "deities": ["Surya (Daughter)"],
+    "themes": ["Surya (Daughter)", "Sun", "Light", "Rescue"  ]
+  },
+{
+    "mandala": 5,
+    "hymn": 40,
+    "verse": 8,
+    "sanskrit": "गराव्णो बरह्मा युयुजानः सपर्यन कीरिणा देवान नमसोपशिक्षन |अत्रिः सूर्यस्य दिवि चक्षुर आधात सवर्भानोर अप माया अघुक्षत ||",
+    "translation": " The Brahman Atri, as he set the press-stones, serving the Gods with praise and adoration,Established in the heaven the eye of Sūrya, and caused Svarbhanu's magic arts to vanish.",
+    "deities": ["Surya (Daughter)"],
+    "themes": ["Surya (Daughter)", "Sun", "Light", "Rescue" , "Brahman", "Atri",  "Divine Service"]
+  },
+{
+    "mandala": 5,
+    "hymn": 83,
+    "verse": 1,
+    "sanskrit": "अछा वद तवसं गीर्भिर आभि सतुहि पर्जन्यं नमसा विवास | कनिक्रदद वर्षभो जीरदानू रेतो दधात्य ओषधीषु गर्भम ||",
+    "translation": "  SING with these songs thy welcome to the Mighty, with adoration praise and call Parjanya.The Bull, loud roaring, swift to send his bounty, lays in the plants the seed. for germination.",
+    "deities": ["Parjanya"],
+    "themes": ["Parjanya", "Rain", "Fertility", "Germination"  ]
+  },
+{
+    "mandala": 5,
+    "hymn": 83,
+    "verse": 9,
+    "sanskrit": "यत पर्जन्य कनिक्रदत सतनयन हंसि दुष्क्र्तः | परतीदं विश्वम मोदते यत किं च पर्थिव्याम अधि ||",
+    "translation": "  When thou, with thunder and with roar, Parjanya, smitest sinners down, This universe exults thereat, yea, all that is upon the earth.",
+    "deities": ["Parjanya"],
+    "themes": ["Parjanya", "Rain", "Justice", "Joy"]
+  },
+{
+    "mandala": 5,
+    "hymn": 82,
+    "verse": 1,
+    "sanskrit": "तत सवितुर वर्णीमहे वयं देवस्य भोजनम |शरेष्ठं सर्वधातमं तुरम भगस्य धीमहि ||",
+    "translation": "  . WE crave of Savitar the God this treasure much to be enjoyed. The best, all-yielding, conquering gift of Bhaga we would gladly win.",
+    "deities": ["Savitar"],
+    "themes": ["Savitar", "Divine Gift", "Wealth", "Enjoyment"  ]
+  },
+{
+    "mandala": 5,
+    "hymn": 82,
+    "verse": 5,
+    "sanskrit": "विश्वानि देव सवितर दुरितानि परा सुव |यद भद्रं तन न आ सुव ||",
+    "translation": "  Savitar, God, send far away all sorrows and calamities, And send us only what is good",
+    "deities": ["Savitar"],
+    "themes": ["Savitar", "Divine Protection", "Welfare"  ]
+  },
+  
+{
+    "mandala": 5,
+    "hymn": 82,
+    "verse": 9,
+    "sanskrit": "य इमा विश्वा जातान्य आश्रावयति शलोकेन |पर च सुवाति सविता ||",
+    "translation": "He who gives glory unto all these living creatures with the song, And brings them forth, is Savitar.",
+    "deities": ["Savitar"],
+    "themes": ["Savitar", "Creation", "Glory", "Song"  ]
+  },
+{
+    "mandala": 5,
+    "hymn": 84,
+    "verse": 1,
+    "sanskrit": "बळ इत्था पर्वतानां खिद्रम बिभर्षि पर्थिवि |पर या भूमिम परवत्वति मह्ना जिनोषि महिनि ||",
+    "translation": "THOU, of a truth,O Prthivi, bearest the tool that rends the hills: Thou rich in torrents, who with might quickenest earth, O Mighty One",
+    "deities": ["prithvi"],
+    "themes": ["prithvi", "Earth", "Strength", "Mountains"  ]
+  },
+{
+    "mandala": 5,
+    "hymn": 84,
+    "verse": 2,
+    "sanskrit": "सतोमासस तवा विचारिणि परति षटोभन्त्य अक्तुभिः |पर या वाजं न हेषन्तम पेरुम अस्यस्य अर्जुनि ||",
+    "translation": "To thee, O wanderer at will, ring out the lauds with beams of day, Who drivest, like a neighing steed, the swelling cloud, O bright of hue.",
+    "deities": ["prithvi"],
+    "themes": ["prithvi", "Earth", "Strength", "Clouds"  ]
+  },
+  
+{
+    "mandala": 5,
+    "hymn": 84,
+    "verse": 3,
+    "sanskrit": "दर्ळ्हा चिद या वनस्पतीन कष्मया दर्धर्ष्य ओजसा |यत ते अभ्रस्य विद्युतो दिवो वर्षन्ति वर्ष्टयः ||",
+    "translation": "Who graspest with thy might on earth. e’en the strong sovrans of the wood, When from the lightning of thy cloud the rain-floods of the heaven descend.",
+    "deities": ["prithvi"],
+    "themes": ["prithvi", "Earth", "Strength", "Rain"  ]
+  },
+{
+    "mandala": 6,
+    "hymn": 53,
+    "verse": 1,
+    "sanskrit": "वयमु तवा पथस पते रथं न वाजसातये |धिये पूषन्नयुज्महि |",
+    "translation": " LORD of the path, O Pūṣan, we have yoked and bound thee to our hymn, Even as a car, to win the prize.",
+    "deities": ["Pusan"],
+    "themes": ["Pusan", "Divine Path", "Yoking", "Victory"  ]
+  },
+  
+{
+    "mandala": 6,
+    "hymn": 53,
+    "verse": 3,
+    "sanskrit": "अदित्सन्तं चिदाघ्र्णे पूषन दानाय चोदय | पणेश्चिद विम्रदा मनः ||",
+    "translation": "3 Even him who would not give, do thou, O glowing Pūṣan, urge to give,And make the niggard's soul grow soft.",
+    "deities": ["Pusan"],
+    "themes": ["Pusan" ]
+  },
+  
+{
+    "mandala": 6,
+    "hymn": 53,
+    "verse": 5,
+    "sanskrit": "परि तर्न्धि पणीनामारया हर्दया कवे | अथेमस्मभ्यं रन्धय ||",
+    "translation": "Penetrate with an awl, O Sage, the hearts of avaricious churls, And make them subject to our will.",
+    "deities": ["Pusan"],
+    "themes": ["Pusan","Pasturage"]
+  },
+  
+{
+    "mandala": 6,
+    "hymn": 74,
+    "verse": 1,
+    "sanskrit": "सोमारुद्रा धारयेथामसुर्यं पर वामिष्टयो.अरमश्नुवन्तु | दमे-दमे सप्त रत्ना दधाना शं नो भूतं दविपदेशं चतुष्पदे ||",
+    "translation": "HOLD fast your Godlike sway, O Soma-Rudra: let these our sacrifices quickly reach you. Placing in every house your seven great treasures, bring blessing to our quadrupeds and bipeds.",
+    "deities": ["Rudra","Chandra (Moon)"],
+    "themes": ["Sacrifice","Rudra"]
+  },
+{
+    "mandala": 6,
+    "hymn": 74,
+    "verse": 2,
+    "sanskrit": "सोमारुद्रा वि वर्हतं विषूचीममीवा या नो गयमाविवेश |आरे बाधेथां निरतिं पराचैरस्मे भद्रा सौश्रवसानि सन्तु ||",
+    "translation": "Soma and Rudra, chase to every quarter the sickness that hath visited our dwelling. Drive Nirrti away into the distance, and give us excellent and happy glories.",
+    "deities": ["Rudra","Chandra (Moon)"],
+    "themes": ["Sacrifice","Rudra"  ,"Health"  ,"Glory"  ,"Happiness"  ,"Protection"  ,"Chandra (Moon)",  "Moon" ]
+  },
+{
+    "mandala": 6,
+    "hymn": 74,
+    "verse": 4,
+    "sanskrit": "तिग्मायुधौ तिग्महेती सुशेवौ सोमारुद्राविह सु मर्ळतं नः | पर नो मुञ्चतं वरुणस्य पाशाद गोपायतं नः सुमनस्यमाना ||",
+    "translation": "Armed with keen shafts and weapons, kind and loving, be gracious unto us, Soma and Rudra. Release us from the noose of Varuṇa; keep us from sorrow, in your tender loving-kindness.",
+    "deities": ["Rudra","Chandra (Moon)"],
+    "themes": ["Sacrifice","Rudra"  ,"Protection"  ,"Chandra (Moon)",  "Moon"]
+  },
+{
+    "mandala": 7,
+    "hymn": 2,
+    "verse": 2,
+    "sanskrit": "नराशंसस्य महिमानमेषामुप सतोषाम यजतस्य यज्ञैः | ये सुक्रतवः शुचयो धियन्धाः सवदन्ति देवा उभयानि हव्या ||",
+    "translation": " With sacrifice to these we men will honour the majesty of holy Narāśaṁsa- To these the pure, most wise, the thought. inspirers, Gods who enjoy both sorts of our oblations.",
+    "deities": ["Narashamsa"],
+    "themes": ["Narashamsa", "Sacrifice", "Honor", "Divine Enjoyment"  ]
+  },
+{
+    "mandala": 7,
+    "hymn": 50,
+    "verse": 1,
+    "sanskrit": "आ मां मित्रावरुणेह रक्षतं कुलाययद विश्वयन मा न आ गन | अजकावं दुर्द्र्शीकं तिरो दधे मा मां पद्येन रपसा विदत तसरुः ||",
+    "translation": ". O MITRA-VARUNA, guard and protect me here: let not that come to me which nests within and swells. I drive afar the scorpion hateful to the sight: let not the winding worm touch me and wound my foot.",
+    "deities": ["Mitra","Varuna"],
+    "themes": ["Mitra","Varuna", "Protection", "Safety"  ]
+  },
+{
+    "mandala": 7,
+    "hymn": 50,
+    "verse": 2,
+    "sanskrit": "यद विजामन परुषि वन्दनं भुवदष्ठीवन्तौ परि कुल्फौ च देहत | अग्निष टच्छोचन्नप बाधतामितो मा माम्पद्येन ... ||",
+    "translation": "Eruption that appears upon the twofold joints, and that which overspreads the ankles and the knees,May the refulgent Agni banish far away let not the winding worm touch me and wound my foot.",
+    "deities": ["Mitra","Varuna"],
+    "themes": ["Mitra","Varuna", "Protection", "Safety"  ]
+  },
+{
+    "mandala": 7,
+    "hymn": 50,
+    "verse": 4,
+    "sanskrit": "याः परवतो निवत उद्वत उदन्वतीरनुदकाश्च याः | ता अस्मभ्यं पयसा पिन्वमानाः शिवा देवीरशिपदा भवन्तु सर्वा नद्यो अशिमिदा भवन्तु ||",
+    "translation": "The steep declivities, the valleys, and the heights, the channels full of water, and the waterless-May those who swell with water, gracious Goddesses, never afflict us with the Sipada disease, may all the rivers keep us free from Simida.",
+    "deities": ["Apas (Waters)"],
+    "themes": ["Apas (Waters)", "Health", "Protection", "Rivers"  ]
+  },
+  
+{
+    "mandala": 7,
+    "hymn": 99,
+    "verse": 1,
+    "sanskrit": "परो मात्रया तन्व्र वर्धान न ते महित्वम अन्व अश्नुवन्ति | उभे ते विद्म रजसी पर्थिव्या विष्णो देव तवम परमस्य वित्से ||",
+    "translation": "MEN come not nigh thy majesty who growest beyond all bound and measure with thy body. Both thy two regions of the earth, O Viṣṇu, we know: thou God, knowest the highest also.",
+    "deities": ["Vishnu"],
+    "themes": ["Vishnu", "Majesty", "Cosmic Order", "Divine Knowledge"  ]
+  },
+{
+    "mandala": 7,
+    "hymn": 99,
+    "verse": 2,
+    "sanskrit": "न ते विष्णो जायमानो न जातो देव महिम्नः परम अन्तम आप | उद अस्तभ्ना नाकम रष्वम बर्हन्तं दाधर्थ पराचीं ककुभम पर्थिव्याः ||",
+    "translation": " None who is born or being born, God Viṣṇu, hath reached the utmost limit of thy grandeur. The vast high vault of heaven hast thou supported, and fixed earth's eastern pinnacle securely.",
+    "deities": ["Vishnu"],
+    "themes": ["Vishnu", "Majesty", "Cosmic Order", "Divine Knowledge" , "Heaven", "Earth", "Support", "Pinnacle"  , "East"  ]
+  },
+  
+{
+    "mandala": 7,
+    "hymn": 99,
+    "verse": 5,
+    "sanskrit": "इन्द्राविष्णू दरंहिताः शम्बरस्य नव पुरो नवतिं च शनथिष्टम | शतं वर्चिनः सहस्रं च साकं हथो अप्रत्य असुरस्य वीरान ||",
+    "translation": "Ye have destroyed, thou, Indra, and thou Viṣṇu, Śambara's nine-and-ninety fenced castles. Ye Twain smote down a hundred times a thousand resistless heroes of the royal Varcin.",
+    "deities": ["Vishnu"],
+    "themes": ["Vishnu", "Indra", "Victory", "Destruction of Foes"  ]
+  },
+{
+    "mandala": 7,
+    "hymn": 100,
+    "verse": 2,
+    "sanskrit": "तवं विष्णो सुमतिं विश्वजन्याम अप्रयुताम एवयावो मतिं दाः | पर्चो यथा नः सुवितस्य भूरेर अश्वावतः पुरुश्चन्द्रस्य रायः ||",
+    "translation": " Thou, Viṣṇu, constant in thy courses, gavest good-will to all men, and a hymn that lasteth,That thou mightst move us to abundant comfort of very splendid wealth with store of horses.",
+    "deities": ["Vishnu"],
+    "themes": ["Vishnu", "Divine Favor", "Wealth", "Comfort"  ]
+  },
+{
+    "mandala": 7,
+    "hymn": 100,
+    "verse": 7,
+    "sanskrit": "वषट ते विष्णव आस आ कर्णोमि तन मे जुषस्व शिपिविष्ट हव्यम | वर्धन्तु तवा सुष्टुतयो गिरो मे यूयम पात सवस्तिभिः सदा नः ||",
+    "translation": "  O Viṣṇu, unto thee my lips cry Vaṣaṭ! Let this mine offering, Sipivista, please thee.May these my songs of eulogy exalt thee. Preserve us evermore, ye Gods, with blessings.",
+    "deities": ["Vishnu"],
+    "themes": ["Vishnu", "Praise", "Divine Favor", "Blessings"  ]
+  },
+  
+{
+    "mandala": 8,
+    "hymn": 31,
+    "verse": 1,
+    "sanskrit": "यो यजाति यजात इत सुनवच्च पचाति च | बरह्मेदिन्द्रस्यचाकनत ||",
+    "translation": "THAT Brahman pleases Indra well, who worships, sacrifices, pours Libation, and prepares the meal.",
+    "deities": ["Brhaspati","Indra"],
+    "themes": ["Brhaspati","Indra", "Worship", "Sacrifice", "Divine Favor"  ]
+  },
+{
+    "mandala": 8,
+    "hymn": 31,
+    "verse": 1,
+    "sanskrit": "यो यजाति यजात इत सुनवच्च पचाति च | बरह्मेदिन्द्रस्यचाकनत ||",
+    "translation": "THAT Brahman pleases Indra well, who worships, sacrifices, pours Libation, and prepares the meal.",
+    "deities": ["Brhaspati","Indra"],
+    "themes": ["Brhaspati","Indra", "Worship", "Sacrifice", "Divine Favor"  ]
+  },
+{
+    "mandala": 8,
+    "hymn": 31,
+    "verse": 3,
+    "sanskrit": "तस्य दयुमानसद रथो देवजूतः स शूशुवत |विश्वा वन्वन्नमित्रिया ||",
+    "translation": "His chariot shall be glorious, sped by Gods, and mighty shall he be,Subduing all hostilities.",
+    "deities": ["Indra"],
+    "themes": ["Indra", "Glory", "Divine Support", "Victory"  ]
+  },
+{
+    "mandala": 8,
+    "hymn": 99,
+    "verse": 1,
+    "sanskrit": "तवामिदा हयो नरो.अपीप्यन वज्रिन भूर्णयः | स इन्द्र सतोमवाहसामिह शरुध्युप सवसरमा गहि ||",
+    "translation": "GREAT, verily, is Indra's might. I have beheld, and hither comesThy bounty, Dasyave-vrka!",
+    "deities": ["Indra"],
+    "themes": ["Praskaṇva", "Indra", "Might", "Bounty"  ]
+  },
+  
+{
+    "mandala": 8,
+    "hymn": 99,
+    "verse": 1,
+    "sanskrit": "तवामिदा हयो नरो.अपीप्यन वज्रिन भूर्णयः | स इन्द्र सतोमवाहसामिह शरुध्युप सवसरमा गहि ||",
+    "translation": "GREAT, verily, is Indra's might. I have beheld, and hither comesThy bounty, Dasyave-vrka!",
+    "deities": ["Indra"],
+    "themes": ["Praskaṇva", "Indra", "Might", "Bounty"  ]
+  },
+{
+    "mandala": 8,
+    "hymn": 6,
+    "verse": 1,
+    "sanskrit": "यस्य वज्रं दधति स इन्द्रः सतोमवाहसामिह शरुध्युप सवसरमा गहि | तवामिदा हयो नरो अपीप्यन वज्रिन भूर्णयः ||",
+    "translation": "He whose bolt Indra wields, hither comes Thy bounty, Dasyave-vrka!Great, verily, is Indra's might. I have beheld.",
+    "deities": ["Indra"],
+    "themes": ["Praskaṇva", "Indra", "Might", "Bounty"  ]
+  },
+{
+    "mandala": 9,
+    "hymn": 1,
+    "verse": 1,
+    "sanskrit": "सवादिष्ठया मदिष्ठया पवस्व सोम धारया | इन्द्राय पातवे सुतः ||",
+    "translation": ". In sweetest and most gladdening stream flow pure, O Soma, on thy way,",
+    "deities": ["Soma"],
+    "themes": ["Soma", "Purity", "Gladdening", "Flow"  ]
+  },
+  
+{
+    "mandala": 9,
+    "hymn": 1,
+    "verse": 10,
+    "sanskrit": "अस्येदिन्द्रो मदेष्वा विश्वा वर्त्राणि जिघ्नते | शूरो मघा च मंहते ||",
+    "translation": "In the wild raptures of this draught, Indra slays all the Vṛtras: he,The Hero, pours his wealth on us.",
+    "deities": ["Soma"],
+    "themes": ["Soma", "Indra", "Victory", "Wealth"  ]
+  },
+  
+{
+    "mandala": 9,
+    "hymn": 11,
+    "verse": 1,
+    "sanskrit": "उपास्मै गायता नरः पवमानायेन्दवे | अभि देवां इयक्षते ||",
+    "translation": "SING forth to Indu, O ye men, to him who is purified, Fain to pay worship to the Gods.",
+    "deities": ["Soma"],
+    "themes": ["Soma", "Worship", "Purity", "Singing"  ]
+  },
+  
+{
+    "mandala": 9,
+    "hymn": 11,
+    "verse": 6,
+    "sanskrit": "नमसेद उप सीदत दध्नेद अभि शरीणीतन | इन्दुम इन्द्रे दधातन ||",
+    "translation": " With humble homage draw ye nigh; blend the libation with the curds:To Indra offer Indu up.",
+    "deities": ["Soma"],
+    "themes": ["Soma", "Worship", "Libation", "Indra"  ]
+  },
+{
+    "mandala": 9,
+    "hymn": 11,
+    "verse": 9,
+    "sanskrit": "पवमान सुवीर्यं रयिं सोम रिरीहि नः |इन्दव इन्द्रेण नो युजा ||",
+    "translation": "  O Soma Pavamana, give us riches and heroic strength,—Indu! with. Indra for ally.",
+    "deities": ["Soma"],
+    "themes": ["Soma", "Worship", "Libation", "Indra"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 10,
+    "verse": 1,
+    "sanskrit": "ओ चित सखायं सख्या वव्र्त्यां तिरः पुरू चिदर्णवंजगन्वन |पितुर्नपातमा दधीत वेधा अधि कषमिप्रतरं दिध्यानः ||",
+    "translation": "FAIN would I win my friend to kindly friendship. So may the Sage, come through the air's wide ocean,Remembering the earth and days to follow, obtain a son, the issue of his father.",
+    "deities": ["yama","Yami"],
+    "themes": ["yama","Yami", "Friendship", "Divine Blessing", "Progeny"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 10,
+    "verse": 3,
+    "sanskrit": "उशन्ति घा ते अम्र्तास एतदेकस्य चित तयजसं मर्त्यस्य |नि ते मनो मनसि धाय्यस्मे जन्युः पतिस्तन्वमाविविश्याः ||",
+    "translation": "Yea, this the Immortals seek of thee with longing, progeny of the sole existing mortal.Then let thy soul and mine be knit together, and as a loving husband take thy consort.",
+    "deities": ["yama","Yami"],
+    "themes": ["yama","Yami", "Immortality", "Progeny", "Love", "Marriage"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 10,
+    "verse": 14,
+    "sanskrit": "अन्यमू षु तवं यम्यन्य उ तवां परि षवजाते लिबुजेवव्र्क्षम |तस्य वा तवं मन इछा स वा तवाधा कर्णुष्वसंविदं सुभद्राम ||",
+    "translation": "Embrace another, Yami; let another, even as the woodbine rings the tree, enfold thee.Win thou his heart and let him win thy fancy, and he shall form with thee a blest alliance.",
+    "deities": ["yama","Yami"],
+    "themes": ["yama","Yami", "Love", "Marriage", "Alliance"  ]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 13,
+    "verse": 1,
+    "sanskrit": "युजे वां बरह्म पूर्व्यं नमोभिर्वि शलोक एतु पथ्येवसूरेः |शर्ण्वन्तु विश्वे अम्र्तस्य पुत्रा आ ये धामानिदिव्यानि तस्थुः ||",
+    "translation": "I YOKE with prayer your ancient inspiration: may the laud rise as on the prince's pathway.All Sons of Immortality shall hear it, all the possessors of celestial natures.",
+    "deities": ["Havirdhanas"],
+    "themes": ["Havirdhanas", "Inspiration", "Prayer", "Immortality"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 17,
+    "verse": 1,
+    "sanskrit": "तवष्टा दुहित्रे वहतुं कर्णोतीतीदं विश्वं भुवनंसमेति | यमस्य माता पर्युह्यमाना महो जाया विवस्वतोननाश ||",
+    "translation": " TVASTAR prepares the bridal of his Daughter: all the world hears the tidings and assembles. But Yama's Mother, Spouse of great Vivasvān, vanished as she was carried to her dwelling.",
+    "deities": ["Tvashtar"],
+    "themes": ["Tvashtar", "Bridal", "Yama", "Vivasvan", "Divine Union"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 17,
+    "verse": 3,
+    "sanskrit": "पूषा तवेतश्च्यावयतु पर विद्वाननष्टपशुर्भुवनस्य गोपाः | स तवैतेभ्यः परि ददत पित्र्भ्यो.अग्निर्देवेभ्यः सुविदत्रियेभ्यः ||",
+    "translation": "  Guard of the world, whose cattle ne’er are injured, may Pūṣan bear thee hence, for he hath knowledge.May he consign thee to these Fathers' keeping, and to the gracious Gods let Agni give thee.",
+    "deities": ["Pusan", "Tvashtar"],
+    "themes": ["Pusan", "Tvashtar", "Protection", "Divine Union", "Cattle"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 58,
+    "verse": 1,
+    "sanskrit": "यत ते यमं वैवस्वतं मनो जगाम दूरकम |तत त आवर्तयामसीह कषयाय जीवसे ||",
+    "translation": "THY spirit, that went far away to Yama to Vivasvān's Son,We cause to come to thee again that thou mayst live and sojourn here.",
+    "deities": ["Yama","Vivasvan"],
+    "themes": ["Pusan", "Tvashtar", "Protection", "Divine Union", "Cattle"  ]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 59,
+    "verse": 1,
+    "sanskrit": "पर तार्यायुः परतरं नवीय सथातारेव करतुमतारथस्य |अध चयवान उत तवीत्यर्थं परातरं सग़्म ||",
+    "translation": " His life hath been renewed and carried forward as two men, car-borne, by the skilful driver One falls, then seeks the goal with quickened vigour. Let Nirrti depart to distant places.",
+    "deities": ["Nirriti"],
+    "themes": ["Nirriti", "Life Renewal", "Divine Journey", "Departure"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 59,
+    "verse": 2,
+    "sanskrit": "सामन नु राये निधिमन नवन्नं करामहे सु पुरुधश्रवांसि |ता नो विश्वानि जरिता ममत्तु परातरं सुनिरतिर्जिहीताम ||",
+    "translation": " Here is the psalm for wealth, and food, in plenty: let us do many deeds to bring us glory.All these our doings shall delight the singer. Let Nirrti depart to distant places.",
+    "deities": ["Nirriti"],
+    "themes": ["Nirriti", "Life Renewal", "Divine Journey", "Departure"  ]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 81,
+    "verse": 1,
+    "sanskrit": "य इमा विश्वा भुवनानि जुह्वद रषिर्होता नयसीदत्पिता नः |स आशिषा दरविणमिछमानः परथमछदवराना विवेश ||",
+    "translation": " HE who sate down as Hotar-priest, the Ṛṣi, our Father, offering up all things existing,— He, seeking through his wish a great possession, came among men on earth as archetypal.",
+    "deities": ["visvakarma"],
+    "themes": ["visvakarma", "Creation", "Divine Priest", "Possession"  ]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 81,
+    "verse": 5,
+    "sanskrit": "या ते धामानि परमाणि यावमा या मध्यमाविश्वकर्मन्नुतेमा | शिक्षा सखिभ्यो हविषि सवधावःस्वयं यजस्व तन्वं वर्धानः ||",
+    "translation": " Nine highest, lowest, sacrificial natures, and these thy mid-most here, O Visvakarman, Teach thou thy friends at sacrifice, O Blessed, and come thyself, exalted, to our worship.",
+    "deities": ["visvakarma"],
+    "themes": ["visvakarma", "Creation", "Divine Priest", "Possession"  ]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 81,
+    "verse": 6,
+    "sanskrit": "विश्वकर्मन हविषा वाव्र्धानः सवयं यजस्व पर्थिवीमुत दयाम |मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवासूरिरस्तु ||",
+    "translation": " Bring thou thyself, exalted with oblation, O Visvakarman, Earth and Heaven to worship. Let other men around us live in folly here let us have a rich and liberal patron.",
+    "deities": ["visvakarma"],
+    "themes": ["visvakarma", "Creation", "Divine Priest", "Possession"  ]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 186,
+    "verse": 1,
+    "sanskrit": "वात आ वातु भेषजं शम्भु मयोभु नो हर्दे |पर णायूंषि तारिषत ||",
+    "translation": " FILLING our hearts with health and joy, may Vāta breathe his balm on us May he prolong our days of life.",
+    "deities": ["vayu"],
+    "themes": ["vayu", "Health", "Joy", "Longevity"  ]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 186,
+    "verse": 2,
+    "sanskrit": "उत वात पितासि न उत भरातोत नः सखा |स नोजीवातवे कर्धि ||",
+    "translation": " Thou art our Father, Vāta, yea, thou art a Brother and a friend, So give us strength that we may live.",
+    "deities": ["vayu"],
+    "themes": ["vayu", "Health", "Joy", "Longevity"  ]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 186,
+    "verse": 3,
+    "sanskrit": "यददो वात ते गर्हे.अम्र्तस्य निधिर्हितः | ततो नो देहिजीवसे ||",
+    "translation": " The store of Amṛta laid away yonder, O Vāta, in thine home,—Give us thereof that we may live.",
+    "deities": ["vayu"],
+    "themes": ["vayu", "Health", "Joy", "Longevity"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 177,
+    "verse": 1,
+    "sanskrit": "पतंगमक्तमसुरस्य मायया हर्दा पश्यन्ति मनसाविपश्चितः |समुद्रे अन्तः कवयो वि चक्षते मरीचीनाम्पदमिछन्ति वेधसः ||",
+    "translation": "  THE sapient with their spirit and their mind behold the Bird adorned with all an Asura's magic might.Sages observe him in the ocean's inmost depth: the wise disposers seek the station of his rays.",
+    "deities": ["maya"],
+    "themes": ["maya", "Wisdom", "Divine Vision", "Magic"  ]
+  },
+{
+    "mandala": 10,
+    "hymn": 129,
+    "verse": 1,
+    "sanskrit": "नासदासीन नो सदासीत तदानीं नासीद रजो नो वयोमापरो यत |किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद गहनं गभीरम ||",
+    "translation": "  THEN was not non-existent nor existent: there was no realm of air, no sky beyond it. What covered in, and where? and what gave shelter? Was water there, unfathomed depth of water?",
+    "deities": ["Creation"],
+    "themes": ["creation"]
+  },
+{
+    "mandala": 10,
+    "hymn": 129,
+    "verse": 3,
+    "sanskrit": "तम आसीत तमसा गूळमग्रे.अप्रकेतं सलिलं सर्वमािदम | तुछ्येनाभ्वपिहितं यदासीत तपसस्तन्महिनाजायतैकम ||",
+    "translation": " Darkness there was: at first concealed in darkness this All was indiscriminated chaos. All that existed then was void and form less: by the great power of Warmth was born that Unit.",
+    "deities": ["Creation"],
+    "themes": ["creation"]
+  },
+  
+{
+    "mandala": 10,
+    "hymn": 129,
+    "verse": 7,
+    "sanskrit": "इयं विस्र्ष्टिर्यत आबभूव यदि वा दधे यदि वा न | यो अस्याध्यक्षः परमे वयोमन सो अङग वेद यदि वा नवेद ||",
+    "translation": "  He, the first origin of this creation, whether he formed it all or did not form it,Whose eye controls this world in highest heaven, he verily knows it, or perhaps he knows not.",
+    "deities": ["Creation"],
+    "themes": ["creation"]
+  },
+{
+    "mandala": 10,
+    "hymn": 129,
+    "verse": 5,
+    "sanskrit": "तिरश्चीनो विततो रश्मिरेषामधः सविदासी.अ.अ.अत | रेतोधाासन महिमान आसन सवधा अवस्तात परयतिः परस्तात ||",
+    "translation": " Transversely was their severing line extended: what was above it then, and what below it? There were begetters, there were mighty forces, free action here and energy up yonder",
+    "deities": ["Creation"],
+    "themes": ["creation"]
+  }
+]
+
