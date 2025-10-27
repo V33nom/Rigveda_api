@@ -1,1 +1,13 @@
 {}  "// Entry point"  "// Hymns routes"  "// Hymns controller"  "node_modules" 
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs and temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
